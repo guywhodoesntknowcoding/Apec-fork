@@ -4,7 +4,7 @@ ___
 
 #### notes
 
-this is a fork
+this is a cool fork of apec I made
 
 This is a small (not so small now) project I've been working on. It changes the in-game GUI to better suit skyblock, for example:
 
